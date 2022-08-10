@@ -5,7 +5,8 @@
 }
 
 body {
-    background-color: #FFEDD5;
+    background-color: #caa8f5;
+    /* background-color: #FFEDD5; */
     font-family: 'Roboto', sans-serif;
 }
 
@@ -17,7 +18,8 @@ ul {
 h1, h2, h3, .price {
     font-family: 'Roboto Serif';
     text-transform: uppercase;
-    color: #202C2A;
+    color: #9984d4;
+    /* color: #202C2A; */
 }
 
 /* HEADER */
@@ -39,7 +41,8 @@ header h1 {
 }
 
 header h1 span {
-    color: #995000;
+    color: #592e83;
+    /* color: #995000; */
 }
 
 header p {
@@ -55,7 +58,8 @@ section {
 }
 
 section h2 {
-    background-color: #FED7AA;
+    background-color: #230c33;
+    /* background-color: #FED7AA; */
     padding: 8px 16px;
     text-align: center;
 
